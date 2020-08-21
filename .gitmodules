@@ -1,0 +1,3 @@
+[submodule "learning-devise"]
+	path = learning-devise
+	url = https://github.com/JelilFaisalAbudu/Rails-components-test.git
